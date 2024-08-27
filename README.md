@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @epsilonxaos
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Svelte
-- 📫 How to reach me jesusgleztr94@gmail.com
+- 👋 Hiola, soy @epsilonxaos
+- 👀 Me encuentro interesado en Desarrollo Web
+- 🌱 Actualmente me encuetro interesado en aprendizaje de React Native y TS
+- 📫 Puedes contactarme a mi correo jesusgleztr94@gmail.com
 
 <!---
 epsilonxaos/epsilonxaos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
