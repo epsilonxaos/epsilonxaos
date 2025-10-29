@@ -1,7 +1,7 @@
 ### ¡Hola! 👋 Soy Jesús González
 
 - 💻 Apasionado por el **Desarrollo Web** y siempre buscando aprender algo nuevo.
-- 🌱 Actualmente profundizando mis conocimientos en **React Native** y **TypeScript**.
+- 🌱 Actualmente profundizando mis conocimientos en **Datos Geoespaciales** y **TypeScript**.
 - 🔍 Explorando soluciones innovadoras para proyectos dinámicos y escalables.
 - 📬 Puedes contactarme en: **jesusgleztr94@gmail.com**
 
